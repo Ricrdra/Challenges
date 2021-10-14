@@ -1,4 +1,4 @@
-# PlatziChallenges
+# Challenges
 Repository of Challenges made by Ricardo Rito Anguiano.
 
 
