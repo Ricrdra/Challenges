@@ -1,5 +1,5 @@
-# Platzi-Master-Challenges
-Repository of Platzi Master Challenges made by Ricardo Rito Anguiano.
+# PlatziChallenges
+Repository of Challenges made by Ricardo Rito Anguiano.
 
 
 
